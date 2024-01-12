@@ -1,10 +1,10 @@
 
-# Peaky Blinders Api
+# Open Eye API
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) [![Nodejs](https://img.shields.io/badge/NodeJs-18-green.svg)](https://NodeJs.com/) [![Typescript](https://img.shields.io/badge/Typescript-lastest-green.svg)](https://www.typescriptlang.org/) [![Postgresql](https://img.shields.io/badge/Postgresql-lastest-green.svg)](https://www.postgresql.org/) 
 
 ## How to Install and Run the Project
-To install and run the Peaky Blinder project locally, please follow these steps:
+To install and run the Open Eye project locally, please follow these steps:
 
  1.Clone the repository from GitHub:    
 ```bash
@@ -13,7 +13,7 @@ To install and run the Peaky Blinder project locally, please follow these steps:
 
 Navigate to the project directory:
 ```bash
-  cd peaky-blinder-api
+  cd open-eye-api
 ```
 
 Install the project dependencies using a package manager such as npm or yarn:

@@ -8,7 +8,7 @@ To install and run the Peaky Blinder project locally, please follow these steps:
 
  1.Clone the repository from GitHub:    
 ```bash
- git@github.com:unikom-codelabs/peaky-blinder-api.git
+ git@github.com:OpenEye-team/open-eye-api.git
  ```
 
 Navigate to the project directory:
